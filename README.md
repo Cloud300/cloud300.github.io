@@ -15,6 +15,7 @@
   npm install hexo-deployer-git --save 
   npm install hexo-server
   然后就可以在本机上查看hexo为你创建好的模版博客了
+  
 
 ## 本地安装预览步骤🧐
 
@@ -39,6 +40,7 @@
 7. 以上是安装Hexo的环境，已经搭建好了
 
 ## 安装Hexo（个人博客网站框架）🦏
+
 
 1. 在某个位置新建一个自己的文件夹（自己命名），进入文件夹后，按住Shift键打开命令窗口
    使用npm官方的镜像，以免报错
